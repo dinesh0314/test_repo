@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir /test123456
+mkdir /tmp/test123456
